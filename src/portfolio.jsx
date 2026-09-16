@@ -107,7 +107,7 @@ const PROJECTS = [
       "An enterprise-oriented meeting platform on the MERN stack with real-time HD video via WebRTC and Socket.IO signaling.",
       "Layered in an AI intelligence pipeline: Whisper transcription plus GPT-4o / Mistral summaries, action-item extraction, and engagement scoring.",
     ],
-    href: "https://github.com/Adi432144",
+    href: "https://github.com/Adi432144/IntellMeet-AI-Powered-Enterprise-Meeting-Collaboration-Platform",
     demo: "https://intellmeet-ai-powered-enterprise.onrender.com/",
   },
   {
@@ -122,7 +122,7 @@ const PROJECTS = [
       "Each Gem ships with a clear purpose and a full instruction set, with one-click copy controls to recreate it in Gemini.",
       "Supports filtering the Gem library by category or search.",
     ],
-    href: "https://github.com/Adi432144",
+    href: https://github.com/Adi432144/Custom-Google-Gemini-Gems",
     demo: "https://custom-google-gemini-gems.onrender.com/",
   },
   {
@@ -165,7 +165,7 @@ const PROJECTS = [
       "Engineered a pattern-recognition matching engine with dynamic time-scaling for difficulty balance.",
       "Used MVVM architecture to decouple game logic from UI for smooth, responsive touch events.",
     ],
-    href: "https://github.com/Adi432144",
+    href: "https://github.com/Adi432144/ANIMAL-MATCH-MAKING-GAME-USING-C-",
   },
 ];
 
