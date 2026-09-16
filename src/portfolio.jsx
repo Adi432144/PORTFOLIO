@@ -122,7 +122,7 @@ const PROJECTS = [
       "Each Gem ships with a clear purpose and a full instruction set, with one-click copy controls to recreate it in Gemini.",
       "Supports filtering the Gem library by category or search.",
     ],
-    href: https://github.com/Adi432144/Custom-Google-Gemini-Gems",
+    href: "https://github.com/Adi432144/Custom-Google-Gemini-Gems",
     demo: "https://custom-google-gemini-gems.onrender.com/",
   },
   {
