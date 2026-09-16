@@ -151,7 +151,7 @@ const PROJECTS = [
       "Architected an interactive full-stack solution using C# and CSHTML for server-side logic and modular rendering.",
       "Implemented shopping cart and user authentication features for state management.",
     ],
-    href: "https://github.com/Adi432144",
+    href: "https://github.com/Adi432144/SPORT-STORE-WITH-C-BACKEND",
   },
   {
     id: "animalmatch",
